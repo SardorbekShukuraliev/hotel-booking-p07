@@ -1,0 +1,12 @@
+name: hotel_booking
+description: P07 · Hotel booking - the P06 modules behind an HTTP API, with PostgreSQL.
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.25.0
+dependencies:
+  postgres: 3.5.20
+  redis: 4.1.0
+  shelf: 1.4.3
+  shelf_router: 1.1.5

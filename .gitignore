@@ -1,0 +1,13 @@
+# Файлы Dart
+.dart_tool/
+.packages
+build/
+
+# Скомпилированные программы (EXE)
+bin/server.exe
+tool/*.exe
+
+# Файлы IDE
+.idea/
+.vscode/
+*.iml
